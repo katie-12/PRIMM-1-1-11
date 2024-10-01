@@ -4,10 +4,10 @@
 Answer the following questions *without running the repo**.
 
 1. What does this program output?
-    > your answer
+    > It gives you the result of the equation you enter into it.
 
 2. If the user intended on outputting the sum of two numbers, does this program accomplish the purpose? Why/why not?
-    > your answer
+    > Yes it would because you input 2 numbers for addition.
 
 ## Run
 Run the program. 
