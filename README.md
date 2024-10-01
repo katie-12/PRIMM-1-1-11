@@ -13,7 +13,7 @@ Answer the following questions *without running the repo**.
 Run the program. 
 
 1. What does the program output. Refer to what numbers you entered and what you got back.
-    > your answer
+    > When you input the number it puts them next to eachother such as 1+2=12 not 1+2=3 like you think it would.
 
 
 ## Investigate
